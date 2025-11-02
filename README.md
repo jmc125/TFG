@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# proyectoTFG
+# TFG
 
 > Blockchain-based system for verifying courses using PoS or PoA.
 
